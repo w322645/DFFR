@@ -1,0 +1,6 @@
+{
+	"token": "MTA2MjE2Nzc5MTAxODQ1MDk5NQ.GhVqoS.-0XVrGeWqQHseKo46ksRqrq8s41jOfX7WQCVYM",
+	"prefix": ["!"],
+	"mongoUrl": "mongodb+srv://alldark:sonic.boom@alldark.s6lrfox.mongodb.net/?retryWrites=true&w=majority",
+	"owners": ["275926652842934272"]
+}
